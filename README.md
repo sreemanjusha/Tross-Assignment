@@ -397,6 +397,7 @@ POST- /api/v1/profile
 *I have configured these variables for public hosted api on Render in environments section and while testing in local I have configured this on IntelliJ run configuration setting**
 
 LINKEDIN_LI_AT
+
 LINKEDIN_JSESSIONID
 
 ### Run locally (For Local)
